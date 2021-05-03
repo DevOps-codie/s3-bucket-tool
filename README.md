@@ -1,6 +1,3 @@
-![BASH RULES!](./bash.png)
-
-
 
 # S3-bucket-tool
 
