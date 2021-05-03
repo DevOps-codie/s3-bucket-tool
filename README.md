@@ -1,8 +1,7 @@
 
 # S3-bucket-tool
 
-
-## Install bash with --brew install bash
+ Install bash with --brew install bash
 
  How to use me
  by default im set to be private
